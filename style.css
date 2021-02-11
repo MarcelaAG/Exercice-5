@@ -1,0 +1,74 @@
+.Rectangle1{
+        float: left;
+        width: 80%;
+        height: 20px;
+        }
+.green{
+    background-color: rgb(0, 128, 68); 
+}
+.Rectangle2{
+    float: left;
+    width: 20%;
+    height: 20px;
+    }
+.blue{
+background-color: blue; 
+}
+.Rectangle3{
+    float: left;
+    width: 34%;
+    height: 40px;
+    }
+.red{
+background-color:red; 
+}
+.Rectangle4{
+    float: left;
+    width: 33%;
+    height: 40px;
+    }
+.orange{
+background-color:rgb(255, 115, 0); 
+}
+.Rectangle5{
+    float: right;
+    width: 33%;
+    height: 40px;
+    }
+.purple{
+background-color:lightblue; 
+}
+.Rectangle6{
+    float: left;
+    width: 34%;
+    height: 40px;
+    }
+.Rectangle7{
+    float: left;
+    width: 22%;
+    height: 40px;
+    }
+.yellow{
+background-color:rgb(255, 187, 0); 
+}
+.Rectangle8{
+    float: left;
+    width: 22%;
+    height: 40px;
+    }
+.light-blue{
+background-color:rgb(39, 194, 233); 
+}
+.Rectangle9{
+    float: left;
+    width: 22%;
+    height: 40px;
+    }
+    .Rectangle10{
+        float: left;
+        width: 100%;
+        height: 120px;
+        }
+    .dark-blue{
+    background-color:rgb(40, 4, 107); 
+    }
